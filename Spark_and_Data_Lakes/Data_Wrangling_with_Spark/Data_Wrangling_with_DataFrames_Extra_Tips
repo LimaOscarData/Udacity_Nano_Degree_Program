@@ -2,7 +2,7 @@
 Functions
 In the previous video, we've used a number of functions to manipulate our dataframe. Let's take a look at the different type of functions and their potential pitfalls.
 
-General functions
+General functions 
 We have used the following general functions that are quite similar to methods of pandas dataframes:
 
 select(): returns a new DataFrame with the selected columns
